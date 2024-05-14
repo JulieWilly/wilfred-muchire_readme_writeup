@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  
+
+- [Box model in CSS](#box-model-in-css)
+    - [Explanation of the different parts:](#explanation-of-the-different-parts)
+    - [Width and Height of an element.](#width-and-height-of-an-element)
+  - [Use of developers tools to view the box-model](#use-of-developers-tools-to-view-the-box-model)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Box model in CSS
 - In HTML, all the elements can be considered as boxes. In CSS, box-model is used in designing and developing layouts. A box-model is essentially  a box that wraps around every HTML. It consists of: content, padding, borders and margins. The image below illustrates the box model.
 
